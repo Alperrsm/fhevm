@@ -180,3 +180,6 @@ This software is distributed under the **BSD-3-Clause-Clear** license. Read [thi
 </p>
 ---
 🧠 Update by a proud Zama community member — pushing the limits of privacy tech! 🔐
+---
+Contributions completed by a proud Zama community member! 🚀
+
