@@ -1,0 +1,7 @@
+{
+  "project": "Zama FHEVM",
+  "author": "Community Builder",
+  "version": "1.0.0",
+  "description": "Example configuration file for Zama Developer Program",
+  "encrypted_mode": true
+}
